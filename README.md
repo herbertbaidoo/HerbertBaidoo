@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I’m Herbert Baidoo  
+### Cybersecurity & Cloud Security Student | SOC Analyst in Training  
 
-<!--
-**herbertbaidoo/HerbertBaidoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Cybersecurity and Digital Forensics student, building strong hands-on skills in:
 
-Here are some ideas to get you started:
+🔹 SOC Operations  
+🔹 Threat Intelligence  
+🔹 Cloud Security (AWS | Azure)  
+🔹 Linux & Server Administration  
+🔹 Network Security  
+🔹 Ethical Hacking & DFIR Basics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I learn by doing — creating labs, breaking systems, fixing them, and documenting everything.
+
+---
+
+## 🔥 What I’m Working On  
+- Building my personal SOC home lab  
+- Learning Docker, Linux, Wazuh, ELK, and cloud tools  
+- Completing TryHackMe & HackTheBox challenges  
+- Practicing threat hunting using VirusTotal, AbuseIPDB, and GreyNoise  
+- Studying for cloud + security certifications (free roadmap)
+
+---
+
+## 🛠 Skills (Growing Daily)
+**Cybersecurity:** SIEM, Threat Hunting, Malware Analysis Basics  
+**Networking:** TCP/IP, ARP, DNS, Subnetting  
+**Cloud:** AWS, Azure, Cloud Security Concepts  
+**Operating Systems:** Linux (Ubuntu Server), Windows  
+**Tools:** Docker, VirtualBox, Wireshark, Nmap, Git  
+**Languages:** Python (beginner), Bash  
+
+---
+
+## 🧪 Current Learning Projects  
+- Linux administration lab  
+- Docker security basics  
+- SOC workflows & incident analysis  
+- Simple automation scripts for security tasks  
+- Packet capture analysis  
+
+---
+
+## 📫 Contact Me  
+**LinkedIn:** [Your LinkedIn URL]  
+**Email:** yourprofessionalemail@gmail.com  
+
+---
+
+## ⭐ Goals for 2025  
+- Build a full cloud SOC lab  
+- Get my first cybersecurity internship  
+- Develop automation tools and share open-source projects  
+- Strengthen cloud security expertise  
